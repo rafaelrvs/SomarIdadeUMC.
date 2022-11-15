@@ -1,0 +1,15 @@
+C:\Users\Rafal\Documents\Projetos\Nova pasta\bin\Debug\net6.0\projetoumc.exe
+C:\Users\Rafal\Documents\Projetos\Nova pasta\bin\Debug\net6.0\projetoumc.deps.json
+C:\Users\Rafal\Documents\Projetos\Nova pasta\bin\Debug\net6.0\projetoumc.runtimeconfig.json
+C:\Users\Rafal\Documents\Projetos\Nova pasta\bin\Debug\net6.0\projetoumc.dll
+C:\Users\Rafal\Documents\Projetos\Nova pasta\bin\Debug\net6.0\projetoumc.pdb
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.csproj.AssemblyReference.cache
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.AssemblyInfoInputs.cache
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.AssemblyInfo.cs
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.dll
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\refint\projetoumc.dll
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.pdb
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\projetoumc.genruntimeconfig.cache
+C:\Users\Rafal\Documents\Projetos\Nova pasta\obj\Debug\net6.0\ref\projetoumc.dll
